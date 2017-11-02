@@ -1,4 +1,3 @@
-package book;
 //https://www.hackerrank.com/challenges/30-abstract-classes/problem
 abstract class Book {
     String title;

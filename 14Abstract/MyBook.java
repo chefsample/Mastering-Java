@@ -1,4 +1,3 @@
-package book;
 //https://www.hackerrank.com/challenges/30-abstract-classes/problem
 class MyBook extends Book {
     int price;

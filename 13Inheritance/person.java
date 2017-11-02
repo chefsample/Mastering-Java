@@ -1,5 +1,3 @@
-package student;
-
 class Person {
     protected String firstName;
     protected String lastName;

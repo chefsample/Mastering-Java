@@ -1,6 +1,3 @@
-package student;
-
-
 class Student extends Person {
     private int[] testScores;
 

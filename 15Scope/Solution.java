@@ -1,4 +1,3 @@
-package maxdiff;
 //https://www.hackerrank.com/challenges/30-scope/problem
 import java.util.Scanner;
 
